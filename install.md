@@ -7,6 +7,8 @@ pip install -r requirement.txt
 
 ```
 
+使用Neo4j V4创建数据库
+
 ```
 FOR ... REQUIRE ...
 ```
